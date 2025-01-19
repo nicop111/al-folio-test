@@ -16,12 +16,12 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I’m Nico, a Robotics student at ETH Zürich 👋
 
 I created this website as a personal knowledge base to organize and revisit topics that interest me. Here, you’ll find summaries of university courses and other things I’m passionate about.
 
->Please note that the information presented comes with no guarantee of completeness or accuracy—these posts are primarily for my own reference.
-{: .block-danger }
+Please note that the information presented comes with no guarantee of completeness or accuracy—these posts are primarily for my own reference.
+
