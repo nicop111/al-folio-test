@@ -24,3 +24,4 @@ Hi, I’m Nico, a Robotics student at ETH Zürich 👋
 I created this website as a personal knowledge base to organize and revisit topics that interest me. Here, you’ll find summaries of university courses and other things I’m passionate about.
 
 >Please note that the information presented comes with no guarantee of completeness or accuracy—these posts are primarily for my own reference.
+{: .block-danger }
