@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://nicop111.github.io/al-folio-test//sitemap.xml
+User-agent: * Disallow: Sitemap: https://nicop111.github.io/nicopedia//sitemap.xml
