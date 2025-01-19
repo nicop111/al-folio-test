@@ -1,1 +1,1 @@
-window.MathJax={tex:{tags:"all"},chtml:{scale:.8}};
+window.MathJax={tex:{tags:"all"},chtml:{scale:.85}};
