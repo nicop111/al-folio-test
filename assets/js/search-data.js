@@ -20,7 +20,7 @@ ninja.data = [{
       
         title: "DPOP",
       
-      description: "Summary of Dynamic Programming and Optimal Control course at ETH Zürich",
+      description: "Summary of the &quot;Dynamic Programming and Optimal Control&quot; course at ETH Zürich in autumn 2024",
       section: "Posts",
       handler: () => {
         
